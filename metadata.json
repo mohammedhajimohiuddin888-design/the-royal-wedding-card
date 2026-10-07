@@ -1,0 +1,6 @@
+{
+  "name": "The Royal Wedding Celebration",
+  "description": "An exquisite luxury digital Indian wedding invitation featuring cinematic curtain reveals, antique gold filigree, real-time countdown, RSVP, and interactive wedding itinerary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
